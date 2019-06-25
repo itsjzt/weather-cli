@@ -1,1 +1,1 @@
-module weather-cli
+module github.com/weather-cli
